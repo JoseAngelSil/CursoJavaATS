@@ -1,0 +1,7 @@
+
+Los temas para ver en esta parte es 
+    1. Operadores Aritmeticos.
+    2. Operadores Aritmeticos con asignacion
+    3. Operadores de incremento y decremento
+    4. Clase Math
+    ****** Ejercicios de practica para este bloque******

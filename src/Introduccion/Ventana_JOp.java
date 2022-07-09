@@ -15,5 +15,6 @@ public class Ventana_JOp {
 		letra = JOptionPane.showInputDialog("Ingrese su sexo").charAt(0);
 		
 		System.out.printf("Hola %s \n Edad: %d \n Salario: $%s\n Sexo: %s\n\n",cadena,no1, no2, letra);
+		System.out.println("Adios " + cadena);
 	}
 }

@@ -17,6 +17,7 @@ public class Tipos_primitivos {
 		System.out.println("noEntero3 = " + noEntero3);
 		long noEntero4 = 1234323;
 		System.out.println("noEntero4 = " + noEntero4);
+		
 		/*
 		Reales
 			float	-> 32 bits
@@ -25,13 +26,15 @@ public class Tipos_primitivos {
 		System.out.println("noF1 = " + noF1);
 		double noD1 = 123445534.23412123;
 		System.out.println("noD1 = " + noD1);
+		
 		/*Caracter
 			char*/
 		char n = 'a';
 		System.out.println("n = " + n);
+		
 		/*
 		boleanos
-			bool
+			boolean
 		*/
 		boolean es = false;
 		System.out.println("es = " + es);
