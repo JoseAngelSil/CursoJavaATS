@@ -1,0 +1,6 @@
+Condicionales en Java
+    1. Sentencia de condicionales if-else
+    2. Sentencia de Switch "Multiples"
+    3. Operador ternario
+************EJERCICIOS DE PRACTICA******************
+
